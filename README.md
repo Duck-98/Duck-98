@@ -1,10 +1,17 @@
 <h3>Hi there! 👋 </h2>
 
 #### FrontEnd Developer  
-<span> 엘알에이치알 @Fapis FE developer (2022.08 ~ 11)</span>
-  
+<span> LRHR @Fapis FE developer (2022.08 ~ 11)</span>
+<span> OnePet @Carepet FE developer (2023.06 ~ 10)</span>
+<span> Mailplug FE developer (2023.10 ~ )
 
-<a href="https://duck-blog-v2-duck-98.vercel.app/"><img src="https://img.shields.io/badge/Blog-3DDC84?style=for-the-badge&logo=Blogger&logoColor=white"/></a> <a href="https://velog.io/@dduck"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a> <a href="https://miniature-river-6e1.notion.site/1f9e3f41d31f49aa954cdb9d1b9bcab4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+<a href="https://duck-blog-v2-duck-98.vercel.app/"><img src="https://img.shields.io/badge/Blog-3DDC84?style=for-the-badge&logo=Blogger&logoColor=white"/></a> <a href="https://miniature-river-6e1.notion.site/1f9e3f41d31f49aa954cdb9d1b9bcab4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+
+
+## 📚 Contribution  
+
+[toss/es-toolkit](https://github.com/toss/es-toolkit)
+
 
 ## 🛠 Tech
 

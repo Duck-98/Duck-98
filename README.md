@@ -1,9 +1,9 @@
 <h3>Hi there! 👋 </h2>
 
 ### FrontEnd Developer  
-<span> **LRHR [@Fapis](https://fapis.io/) FE developer (2022.08 ~ 11)** </span> <br/>
-<span> **OnePet [@Carepet](https://www.carepet.io/) FE developer (2023.06 ~ 10)** </span> <br/>
-<span> **[Mailplug](https://www.mailplug.com/) FE developer (2023.10 ~ )** </span>
+<span> **LRHR [@Fapis](https://fapis.io/)** FE developer  <sub>(2022.08 ~ 11)</sub></span> <br/>
+<span> **OnePet [@Carepet](https://www.carepet.io/)** FE developer  <sub>(2023.06 ~ 10)</sub> </span> <br/>
+<span> **[Mailplug](https://www.mailplug.com/)** FE developer <sub>(2023.10 ~ )</sub> </span>
 
 <a href="https://duck-blog-v2-duck-98.vercel.app/"><img src="https://img.shields.io/badge/Blog-3DDC84?style=for-the-badge&logo=Blogger&logoColor=white"/></a> <a href="https://miniature-river-6e1.notion.site/1f9e3f41d31f49aa954cdb9d1b9bcab4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 

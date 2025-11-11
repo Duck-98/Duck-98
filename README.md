@@ -1,6 +1,5 @@
 <h3>Hi there! 👋 </h2>
 
-### FrontEnd Developer  
 <span> **LRHR [@Fapis](https://fapis.io/)** FE developer Intern  <sub>(2022.08 ~ 11)</sub></span> <br/>
 <span> **OnePet [@Carepet](https://www.carepet.io/)** FE developer  <sub>(2023.06 ~ 10)</sub> </span> <br/>
 <span> **[Mailplug](https://www.mailplug.com/)** FE developer <sub>(2023.10 ~ 2025.07)</sub> </span> <br/>

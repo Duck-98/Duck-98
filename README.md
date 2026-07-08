@@ -13,10 +13,3 @@
 
 [toss/es-toolkit](https://github.com/toss/es-toolkit)
 
-
-## 🛠 Tech
-
-![reactjs](https://www.codenary.co.kr/widget/github-techstack/api?name=reactjs) ![nextjs](https://www.codenary.co.kr/widget/github-techstack/api?name=nextjs) ![typescript](https://www.codenary.co.kr/widget/github-techstack/api?name=typescript) ![javascript](https://www.codenary.co.kr/widget/github-techstack/api?name=javascript) ![zustand](https://www.codenary.co.kr/widget/github-techstack/api?name=zustand) ![tailwind](https://www.codenary.co.kr/widget/github-techstack/api?name=tailwind) ![emotion](https://www.codenary.co.kr/widget/github-techstack/api?name=emotion) ![styledcomponents](https://www.codenary.co.kr/widget/github-techstack/api?name=styledcomponents)  ![reactquery](https://www.codenary.co.kr/widget/github-techstack/api?name=reactquery) ![storybook](https://www.codenary.co.kr/widget/github-techstack/api?name=storybook) 
-
-
-  

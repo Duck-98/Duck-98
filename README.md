@@ -3,8 +3,11 @@ Frontend developer focused on building reliable products with React, Next.js, an
 
 ### Experience
 
+- **KakaoHealthcare** - Frontend Developer  
+  `2025.09 ~`
+
 - **NHN KCP** - Frontend Developer  
-  `2025.07 - Present`
+  `2025.07 - 2026.08`
 
 - **Mailplug** - Frontend Developer  
   `2023.10 - 2025.07`
